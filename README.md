@@ -1,4 +1,4 @@
-Hola mundo... 👋  !!!!
+Hola mundo... 👋  !!!! yo soy Patricia Retamales y soy una derarrolladora full starck.....
 
 
 - 🔭 I’m currently working on ...👋
