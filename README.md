@@ -17,3 +17,9 @@ Soy un Desarrollador Full Stack que está acostumbrado al trabajo bajo presión,
 
 
 <a href="" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
+
+<a href="https://github.com/angelicamaliqueo">
+    <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=angelicamaliqueo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicamaliqueo&layout=compact&langs_count=7&theme=dracula"/>
