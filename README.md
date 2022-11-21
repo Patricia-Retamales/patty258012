@@ -21,5 +21,8 @@ Soy un Desarrollador Full Stack que está acostumbrado al trabajo bajo presión,
 
 
 <a href="https://github.com/patty258012">
-    <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=patty258012&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+    <img height="160rem" src="https://github-readme-stats.vercel.app/api?
+    username=patty258012&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patty258012&layout=compact&langs_count=7&theme=dracula"/>
